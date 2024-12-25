@@ -7,6 +7,7 @@ This project is inspired by the tutorial available on YouTube (Complete project 
 
 # Database and Tools
 Postgre SQL
+
 PgAdmin4
 
 Schema- Music Store Database
